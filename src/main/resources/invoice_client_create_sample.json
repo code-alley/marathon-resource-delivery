@@ -1,0 +1,20 @@
+{
+	"name": "tester2",
+	"id_number": "idnumber1",
+	"vat_number": "vatnumber1",
+	"website": "website1",
+	"work_phone": "1234-1234",
+	"address1": "addr1",
+	"address2": "addr2",
+	"city": "card",
+	"state": "busy",
+	"postal_code": "post",
+	"country_id": 840,
+	"contacts": [
+	{
+		"email": "me1@test.com",
+		"first_name": "first",
+		"last_name": "last",
+		"phone": "2323-2323"
+	}]
+}

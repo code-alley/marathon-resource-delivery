@@ -1,0 +1,17 @@
+{
+    "client_id": 1,
+    "invoice_items": [
+    	{
+  	    "product_key": "sample3",
+            "notes": "example product",
+            "cost": 100,
+            "qty": 12
+        },
+        {
+            "product_key": "sample4",
+            "notes": "example product product",
+            "cost": 1000,
+            "qty": 5
+        }
+    ]
+}
